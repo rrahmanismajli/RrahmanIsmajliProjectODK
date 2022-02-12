@@ -307,9 +307,10 @@ button {
 .book_now {
     width: 70%;
     float: right;
-    background-color: #f8ca11;
+    background-color: #5b7824;
     height: auto;
     padding: 10px;
+    box-shadow: 2px 2px 2px 2px white;
 }
 
 .book_text{
@@ -318,7 +319,7 @@ button {
      font-size: 40px;
      color: #fbfaf6;
      text-align: center;
-}
+}s
 .call_text{
      width: 100%;
      float: left;
@@ -423,7 +424,7 @@ button {
      width: 100%;
      float: left;
      background-color: #fefefe;
-     height: auto;
+     height: 504px;
     margin-top: 70px;
 }
 .round_1 {
@@ -432,7 +433,7 @@ button {
     font-size: 24px;
     color: #fefefe;
     height: 70px;
-    background: #f8ca11;
+    background: #5b7824;
     display: block;
     text-align: center;
     border-radius: 60px;
@@ -460,6 +461,16 @@ button {
 
 input.email-bt::placeholder {
     color: #000;
+}
+.foto-card{ 
+
+    border: 2px solid green;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 2px yellow;
+
+
+
+
 }
 
 .images_2{
@@ -520,7 +531,7 @@ input.email-bt::placeholder {
     float: left;
     font-size: 18px;
     color: #fefefe;
-    background-color: #f8ca11;
+    background-color:#5b7824 ;
     text-align: center;
     padding: 10px 0px;
     margin-top: 30px;
@@ -556,7 +567,7 @@ input.email-bt::placeholder {
     float: right;
     font-size: 18px;
     color: #fefefe;
-    background-color: #f8ca11;
+    background-color: #5b7824;
     text-align: center;
     padding: 10px 0px;
     margin-top: 30px;
@@ -616,7 +627,7 @@ input.email-bt::placeholder {
 }
 
 .fb_text a{ color: #fffcf4; }
-.fb_text a:hover{ color: #fecf3d; }
+.fb_text a:hover{ color: #5b7824; }
 
 
 .adderess_text {
@@ -666,7 +677,7 @@ input.email-bt::placeholder {
     float: left;
     font-size: 16pt;
     color: #eceaea;
-    background-color: #fecf3d;
+    background-color: #5b7824;
     padding: 5px 0px;
     border: 0px;
     text-align: center;
@@ -692,14 +703,14 @@ input.email-bt::placeholder {
 }
 
 .copyright a{ color: #000; }
-.copyright a:hover{ color: #fecf3d; }
+.copyright a:hover{ color: #5b7824; }
 
 
 #main_slider a.carousel-control-prev {
     position: absolute;
     left: 50px;
     top: 40%;
-    background-color: #f8ca12;}
+    background-color: #5b7824;}
 }
 
 #main_slider .carousel-control-prev, #main_slider .carousel-control-next {
@@ -729,12 +740,12 @@ input.email-bt::placeholder {
 }
 
 #main_slider .carousel-control-prev:hover, #main_slider .carousel-control-next:hover, #main_slider .carousel-control-prev:focus, #main_slider .carousel-control-next:focus {
-    background: #f8ca12;
+    background: #5b7824;
     color: #fff;
 }
 
 #main_slider .carousel-control-prev:hover, #main_slider .carousel-control-next:hover, #main_slider .carousel-control-prev:focus, #main_slider .carousel-control-next:focus {
-    background: #f8ca12;
+    background: #5b7824;
     color: #fff;
 }
 
